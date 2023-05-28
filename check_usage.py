@@ -1,5 +1,5 @@
 """
-Check token usage of OpenAI and multiple by corresponding model price
+Check token usage of OpenAI and multiply by corresponding model price
 https://redandgreen.co.uk
 Python 360 ~ https://www.youtube.com/@python360
 """
